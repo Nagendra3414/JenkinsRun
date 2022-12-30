@@ -1,0 +1,5 @@
+stepDefinitions\login.class
+pages\PasswordPage.class
+pages\EmailPage.class
+Runner\TestRunner.class
+stepDefinitions\dataDriven.class
